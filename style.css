@@ -11,4 +11,7 @@ li{
 button{
     margin-top: 5px;
     padding: 10px 15px;
+    background-color: lightblue;
+    border: none;
+    cursor: pointer;
 }
